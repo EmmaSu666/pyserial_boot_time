@@ -20,11 +20,11 @@ Measureing the boot up time for every boot stage.
   - init: Filesystem
 
 ### Expected output log_file contains:
-FSBL:2.480000000039581s
-SSBL:13.419999999983702s
-Linux:5.599999999976717s
-init:29.570000000006985s
-Total time:51.070000000006985s
+- FSBL:2.480000000039581s
+- SSBL:13.419999999983702s
+- Linux:5.599999999976717s
+- init:29.570000000006985s
+- Total time:51.070000000006985s
 
 ### Step 1: check the connected device name.
 ### Step 2: pexpect.expect() to read the specific values as beakpoints for boot up
