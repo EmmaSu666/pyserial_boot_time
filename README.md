@@ -2,8 +2,8 @@
 
 ## Environment:
 - Local machine:
--   cygwin on Windows
--   Python 3.9.16
+  - cygwin on Windows
+  - Python 3.9.16
 - Target machine:
   - Linux 5.4
   - U-boot 2019.04
